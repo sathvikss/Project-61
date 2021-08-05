@@ -1,0 +1,82 @@
+#Words{
+    text-align: center;
+    background:linear-gradient(#ad1aa1 0%, #d4ac26 100%) ;
+}
+body{
+    text-align: center;
+}
+#one{
+    color: blue;
+}
+#Mw,#Mr,#Ms{
+    color: yellow;
+    right: 50px;
+    height: 100px;
+}
+#Ms:hover{
+    color: blue;
+}
+#Mr:hover{
+    color: blue;
+}
+#Mw:hover{
+    color: blue;
+}
+.menu{
+    list-style: none;
+    color: sandybrown;
+    position: absolute;
+    top: 10px;
+    left: 30px;
+    cursor: pointer;
+    z-index: 10px;
+}
+.list{
+    float: left;
+    color:sandybrown;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.list:hover{
+    background: red;
+}
+body{
+    text-align: center;
+    background-color: rgb(255, 0, 0);
+}
+#I{
+    text-align: center;
+    background:linear-gradient(#1138b8 0%, #93ce0a 100%) ;
+}
+#P{
+    text-align: center;
+    background:linear-gradient(#230227 0%, #0d5a2a 100%) ;
+}
+#ten{
+   color: brown;
+}
+#H{
+    color: cornflowerblue;
+}
+img{
+    transition: transform .1s ;
+}
+img:hover{
+    transform: scale(0.85);
+}
+#two,#three,#four{
+    border-radius: 20%;
+    height: 300px;
+    width: 300px;
+}
+#anc{
+    background:linear-gradient(#ff9900 0%, #33c2c7 100%) ;
+}
+#con_iframe{
+    width:100%;
+}
+#con{
+    background:linear-gradient( #000000 0%, #ffffff 100%);
+}
